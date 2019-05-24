@@ -426,4 +426,4 @@ public class DoctorMainActivity extends AppCompatActivity {
 }
 
 //TODO
-//Check the counts to see if the app will start with gray text while on flash instead of lightgreen
+//Check the counts to see if the app will start with gray text while on flash instead of red
